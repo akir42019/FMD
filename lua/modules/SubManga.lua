@@ -51,7 +51,7 @@ end
 function Init()
   local m = NewModule()
   m.website = 'SubManga'
-  m.rooturl = 'https://submanga.online'
+  m.rooturl = 'https://submanga.li'
   m.category = 'Spanish'
   m.lastupdated='May 26, 2018'
   m.ongetinfo='getinfo'
